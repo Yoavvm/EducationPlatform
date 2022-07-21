@@ -1,0 +1,24 @@
+{
+  "name": "educationapp",
+  "version": "1.0.0",
+  "description": "attempting to create an app which can make progression tracking easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoavvm/EducationPlatform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoavvm/EducationPlatform/issues"
+  },
+  "homepage": "https://github.com/Yoavvm/EducationPlatform#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
